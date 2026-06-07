@@ -227,10 +227,15 @@ p.note { display: none; }
 <a href="20260607_036.JPG" target="_blank"><img src="20260607_036.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260607_037.JPG" target="_blank"><img src="20260607_037.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">最後はまたまた河内総合運動公園のお花たち</span></h2>
+<h2><span class="yellow">次はまたまた河内総合運動公園のお花たち</span></h2>
 <a href="20260607_038.JPG" target="_blank"><img src="20260607_038.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260607_039.JPG" target="_blank"><img src="20260607_039.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260607_040.JPG" target="_blank"><img src="20260607_040.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">最後は、公園横の林でなく鶯の声</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9d58KK0aGE?si=fqEyxIfxKKqLozbv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 
 <!--
 <h2><span class="yellow">今回の撮影範囲は、おおむね赤枠のエリア</span></h2>
